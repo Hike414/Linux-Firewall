@@ -64,7 +64,3 @@ The firewall rules are configured in `config/rules.yaml`. Edit this file to cust
 - Keep the system updated with security patches
 - Regularly review and update firewall rules
 - Monitor logs for suspicious activity
-
-## License
-
-MIT License 

@@ -22,7 +22,7 @@ A robust Linux-based firewall system that provides network security through pack
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Hike414/Linux-Firewall.git
 cd linux-firewall
 ```
 

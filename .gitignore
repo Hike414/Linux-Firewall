@@ -1,0 +1,62 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows and PowerShell
+Thumbs.db
+ehthumbs.db
+*.ps1xml
+*.psc1
+*.psd1
+*.psm1
+*.ps1
+*.suo
+*.lnk
+
+# VS Code settings
+.vscode/
+.history/
+
+# JetBrains IDEs (PyCharm, etc.)
+.idea/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Firewall specific
+firewall.log
